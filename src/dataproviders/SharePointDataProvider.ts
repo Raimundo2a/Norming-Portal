@@ -96,7 +96,7 @@ export default class SharePointDataProvider implements IDataProvider {
         /*
         NOTE: 
         the above code use get request for retrieving the search results; alternatively, you can use POST request
-        Sample code: 
+        Sample code: here it is
 
         var body = {
             'request': {
